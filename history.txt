@@ -1,0 +1,15 @@
+echo "Sdfc"
+seek
+warp -
+sleep 1 & echo "Dfc"
+iMan ls
+iMan rm
+iMan ps
+iMan chdir
+iMan sleep
+sleep 1
+warp yyy
+peek 
+warp ..
+peek
+peek -l
